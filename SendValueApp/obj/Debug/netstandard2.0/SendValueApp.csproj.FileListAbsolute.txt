@@ -10,3 +10,4 @@
 /Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.dll
 /Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.pdb
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/PageCalc.xaml.g.cs

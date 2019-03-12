@@ -19,5 +19,13 @@
                HorizontalOptions="Center"
                VerticalOptions="CenterAndExpand"/>
         
+        <Button Text="Novo Calculo"
+                HorizontalOptions="Center" 
+                VerticalOptions="EndAndExpand"
+                BackgroundColor="Navy"
+                TextColor="White"
+                FontSize="20" 
+                Clicked="Recalcular"/>
+        
     </StackLayout>
 </ContentPage>
