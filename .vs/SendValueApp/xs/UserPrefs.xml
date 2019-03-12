@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{DA5D3C1D-CDE7-4FE7-A259-490AAA106686}|Default">
+  <MonoDevelop.Ide.ItemProperties.SendValueApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SendValueApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SendValueApp/PageCalc.xaml">
+    <Files>
+      <File FileName="SendValueApp/MainPage.xaml.cs" Line="14" Column="75" />
+      <File FileName="SendValueApp/PageCalc.xaml.cs" Line="12" Column="35" />
+      <File FileName="SendValueApp/MainPage.xaml" Line="26" Column="32" />
+      <File FileName="SendValueApp/PageCalc.xaml" Line="18" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SendValueApp" expanded="True">
+            <Node name="SendValueApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="PageCalc.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/aluno/Projects/SendValueApp/SendValueApp/bin/Debug/netstandard2.0/SendValueApp.deps.json
+/Users/aluno/Projects/SendValueApp/SendValueApp/bin/Debug/netstandard2.0/SendValueApp.dll
+/Users/aluno/Projects/SendValueApp/SendValueApp/bin/Debug/netstandard2.0/SendValueApp.pdb
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.AssemblyInfo.cs
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.dll
+/Users/aluno/Projects/SendValueApp/SendValueApp/obj/Debug/netstandard2.0/SendValueApp.pdb
