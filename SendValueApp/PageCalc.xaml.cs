@@ -22,7 +22,7 @@ namespace SendValueApp
 
         void Recalcular(object sender, System.EventArgs e)
         {
-            Navigation.PopAsync();
+            Navigation.PushAsync(new MainPage());
 
         }
     }
